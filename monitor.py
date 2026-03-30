@@ -31,7 +31,7 @@ EMAIL_ORIGEN      = "mendless42@gmail.com"
 EMAIL_PASSWORD    = "jeqe zkwg mkpk usur"  # Contraseña de App de Google (ver README)
 
 # Email destinatario (puede ser el mismo)
-EMAIL_DESTINO     = "afcarvajallg@upn.edu.co"
+EMAIL_DESTINO     = "afcarvajalg@upn.edu.co"
 
 # ─────────────────────────────────────────────
 #   NO EDITES DEBAJO DE ESTA LÍNEA
